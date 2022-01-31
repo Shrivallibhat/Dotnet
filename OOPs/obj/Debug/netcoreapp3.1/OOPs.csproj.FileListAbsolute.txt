@@ -1,0 +1,4 @@
+C:\Users\HP\Desktop\training\Monday(OOPS)\OOPs\obj\Debug\netcoreapp3.1\OOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\training\Monday(OOPS)\OOPs\obj\Debug\netcoreapp3.1\OOPs.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\training\Monday(OOPS)\OOPs\obj\Debug\netcoreapp3.1\OOPs.AssemblyInfo.cs
+C:\Users\HP\Desktop\training\Monday(OOPS)\OOPs\obj\Debug\netcoreapp3.1\OOPs.csproj.CoreCompileInputs.cache

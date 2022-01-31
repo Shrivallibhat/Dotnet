@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\training\Oject function\obj\Debug\netcoreapp3.1\Oject function.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\training\Oject function\obj\Debug\netcoreapp3.1\Oject function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\training\Oject function\obj\Debug\netcoreapp3.1\Oject function.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\training\Oject function\obj\Debug\netcoreapp3.1\Oject function.AssemblyInfo.cs
+C:\Users\HP\Desktop\training\Oject function\obj\Debug\netcoreapp3.1\Oject function.csproj.CoreCompileInputs.cache
